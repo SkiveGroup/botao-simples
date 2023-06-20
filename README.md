@@ -4,10 +4,8 @@
   Você pode nos ajudar, acessando nosso site e compartilhando com amigos.
   Caso queira contribuir, para que possamos melhorar cada vez mais nosso projeto,
   você pode contribuir através do livepix: https://livepix.gg/skive
-  
------------------------------------------------------------------------------------
-  
-  • Vamos ao tutorial:
+  -----------------------------------------------------------------------------------
+    • Vamos ao tutorial:
 
     1) Alterar o alinhamento do botão você deve alterar o <center> e </center> que
     se encontram na linha 6 e 9.
@@ -24,9 +22,7 @@
 
     4) Alterar o tamanho do texto, basta alterar o código pixel após font-size: 16px
     você pode alterar para o tamanho desejado.
-
 -----------------------------------------------------------------------------------
-
     Recomendamos sempre utilizar o software "Visual Studio Code", você pode baixa-lo
     gratuitamente através do site: https://code.visualstudio.com/download
 

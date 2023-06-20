@@ -5,7 +5,7 @@
   Caso queira contribuir, para que possamos melhorar cada vez mais nosso projeto,
   você pode contribuir através do livepix: https://livepix.gg/skive
   
-# ---------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------
   
   • Vamos ao tutorial:
 
@@ -25,7 +25,7 @@
     4) Alterar o tamanho do texto, basta alterar o código pixel após font-size: 16px
     você pode alterar para o tamanho desejado.
 
-# ---------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------
 
     Recomendamos sempre utilizar o software "Visual Studio Code", você pode baixa-lo
     gratuitamente através do site: https://code.visualstudio.com/download
